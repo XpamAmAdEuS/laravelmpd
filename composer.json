@@ -1,0 +1,19 @@
+{
+  "name": "xpamamadeus/laravelmpd",
+  "description": "LFTP transfer log parser",
+  "keywords": ["MPD", "Laravel"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "XpamAmAdEuS"
+    }
+  ],
+
+  "autoload": {
+    "psr-4": {
+      "MITLaravelMPD\\": "src/LaravelMPD"
+    }
+  }
+
+}
